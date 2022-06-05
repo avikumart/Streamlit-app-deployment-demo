@@ -13,6 +13,6 @@ df = pd.DataFrame({"Country":['Hong Kong', 'South Korea', 'China', 'Italy', 'Mon
 #st.dataframe(df)
 
 #plot a line chart
-st.line_chart(df)
+st.bar_chart(df)
 st.title("Corruption Index by countries")
 
