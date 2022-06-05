@@ -18,6 +18,6 @@ st.write("This is the dataframe representing the below chart: ", pd.DataFrame({
 
 #plot a line chart
 st.title("Corruption Index by countries")
-st.line_chart(df)
+st.bar_chart(df)
 
 
