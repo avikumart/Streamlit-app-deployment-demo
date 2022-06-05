@@ -21,3 +21,6 @@ st.title("Corruption Index by countries")
 st.bar_chart(df)
 
 
+       
+
+
